@@ -1,6 +1,13 @@
+-----menu makanan-----
 ayam geprek
 ayam penyet
 tempe goreng
 tahu krispi
 cilok
 batagor
+------menu minuman-----
+pop ice
+top ice
+goodday
+milo
+dancow
